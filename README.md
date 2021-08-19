@@ -22,4 +22,4 @@ source ~/catkin_ws/devel/setup.bash
 ![home2](https://user-images.githubusercontent.com/85634146/130117541-52c35337-ef1e-423d-b40e-cd7cb98ee282.jpeg)
 - Final step: save the map:<br/>
 <br/>  `rosrun map_server map_saver -f ~/map  `
-- 
+
